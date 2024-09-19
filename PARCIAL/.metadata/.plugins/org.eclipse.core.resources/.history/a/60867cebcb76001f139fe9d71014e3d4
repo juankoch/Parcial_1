@@ -1,0 +1,15 @@
+import java.util.Date;
+
+public class Libro {
+
+	private String isbn;
+	private String titulo;
+	private double precio;
+	private Date fechaPub;
+	private String editorial;
+	private int cantidad;
+	
+	
+	
+	
+}

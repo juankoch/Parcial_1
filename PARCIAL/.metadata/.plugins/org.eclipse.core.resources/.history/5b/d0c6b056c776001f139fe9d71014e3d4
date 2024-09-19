@@ -1,0 +1,12 @@
+
+public class Libro {
+
+	private String isbn;
+	private String titulo;
+	private double precio;
+	private DATE fechaPub;
+	
+	
+	
+	
+}
